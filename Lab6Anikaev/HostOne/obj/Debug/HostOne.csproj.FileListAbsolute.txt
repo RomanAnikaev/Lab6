@@ -1,0 +1,12 @@
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\bin\Debug\HostOne.exe.config
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\bin\Debug\HostOne.exe
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\bin\Debug\HostOne.pdb
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\bin\Debug\Lab6Anikaev.dll
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\bin\Debug\Lab6Anikaev.pdb
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\bin\Debug\Lab6Anikaev.dll.config
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\obj\Debug\HostOne.csproj.AssemblyReference.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\obj\Debug\HostOne.csproj.SuggestedBindingRedirects.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\obj\Debug\HostOne.csproj.CoreCompileInputs.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\obj\Debug\HostOne.csproj.CopyComplete
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\obj\Debug\HostOne.exe
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\HostOne\obj\Debug\HostOne.pdb

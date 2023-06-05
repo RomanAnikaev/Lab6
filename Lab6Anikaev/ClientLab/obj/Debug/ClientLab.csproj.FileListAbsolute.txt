@@ -1,0 +1,16 @@
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\bin\Debug\ClientLab.exe.config
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\bin\Debug\ClientLab.exe
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\bin\Debug\ClientLab.pdb
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab.csproj.AssemblyReference.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab.csproj.SuggestedBindingRedirects.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\MainWindow.g.cs
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\App.g.cs
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab_MarkupCompile.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab_MarkupCompile.lref
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\MainWindow.baml
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab.g.resources
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab.Properties.Resources.resources
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab.csproj.GenerateResource.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab.csproj.CoreCompileInputs.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab.exe
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\ClientLab\obj\Debug\ClientLab.pdb

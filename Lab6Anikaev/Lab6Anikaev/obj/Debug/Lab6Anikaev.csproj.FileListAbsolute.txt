@@ -1,0 +1,7 @@
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\Lab6Anikaev\bin\Debug\Lab6Anikaev.dll.config
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\Lab6Anikaev\bin\Debug\Lab6Anikaev.dll
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\Lab6Anikaev\bin\Debug\Lab6Anikaev.pdb
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\Lab6Anikaev\obj\Debug\Lab6Anikaev.csproj.AssemblyReference.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\Lab6Anikaev\obj\Debug\Lab6Anikaev.csproj.CoreCompileInputs.cache
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\Lab6Anikaev\obj\Debug\Lab6Anikaev.dll
+D:\HNURE\C#.Net\Lab6Anikaev\Lab6Anikaev\Lab6Anikaev\obj\Debug\Lab6Anikaev.pdb
